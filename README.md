@@ -10,6 +10,10 @@
 
 ---
 
+- **Demo video (1:41, captions in English):** [docs/demo.mp4](docs/demo.mp4)
+
+![Blocked prompt-injection payment](docs/screenshot-block.png)
+
 ## Problem
 
 1. **LATAM payment scams are moving to crypto.** In Nicaragua and across the region, people get "you won a BAC prize, pay the release fee", "your remittance is held, pay a commission", "this is my new number/account" and fake exchange-support messages. With NEAR, the payment is final: there is no bank to call.
