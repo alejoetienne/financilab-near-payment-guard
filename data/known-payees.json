@@ -1,0 +1,8 @@
+{
+  "_comment": "DEMO contacts ('known payees'). In a real deployment each user keeps their own list (wallet address book). alice.testnet and guest-book.testnet are real, existing testnet accounts used for the demo.",
+  "entries": [
+    { "accountId": "alice.testnet", "label": "Alice (contacto demo)", "network": "testnet" },
+    { "accountId": "wrap.testnet", "label": "wNEAR (contrato oficial testnet)", "network": "testnet" },
+    { "accountId": "wrap.near", "label": "wNEAR (contrato oficial)", "network": "mainnet" }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DEMO DATA. These entries are FAKE accounts invented for the FinanciLab Payment Guard demo (verified not to exist on testnet as of 2026-11-11). In production this list would come from community reports (e.g. Blockchain Nicaragua / FinanciLab users) with evidence links and review.",
+  "entries": [
+    {
+      "accountId": "premio-bac-ni.testnet",
+      "reason": "Fake BAC prize: asks for NEAR to 'release' a prize (demo entry)",
+      "reasonEs": "premio falso de BAC: pide NEAR para 'liberar' un premio (entrada demo)",
+      "evidence": "demo: WhatsApp chain message 'Ganaste un premio BAC, envía NEAR para liberar' reported by FinanciLab users",
+      "reportedBy": "FinanciLab demo",
+      "network": "any"
+    },
+    {
+      "accountId": "soporte-binance-nic.testnet",
+      "reason": "Fake exchange support account asking users to 'verify' by sending NEAR (demo entry)",
+      "reasonEs": "falso soporte de exchange que pide enviar NEAR para 'verificar' la cuenta (entrada demo)",
+      "evidence": "demo: Telegram impersonation of Binance support targeting Nicaragua",
+      "reportedBy": "FinanciLab demo",
+      "network": "any"
+    },
+    {
+      "accountId": "remesa-liberada.testnet",
+      "reason": "Held-remittance fee scam: 'pay a fee in NEAR to release your remittance' (demo entry)",
+      "reasonEs": "fraude de remesa retenida: 'pague una comisión en NEAR para liberar su remesa' (entrada demo)",
+      "evidence": "demo: SMS 'Su remesa está retenida, pague la comisión para liberarla'",
+      "reportedBy": "FinanciLab demo",
+      "network": "any"
+    },
+    {
+      "accountId": "duplica-tu-near.testnet",
+      "reason": "Crypto doubling scheme: 'send 10 NEAR, receive 20' (demo entry)",
+      "reasonEs": "esquema de duplicar cripto: 'envíe 10 NEAR y reciba 20' (entrada demo)",
+      "evidence": "demo: Facebook group post",
+      "reportedBy": "FinanciLab demo",
+      "network": "any"
+    }
+  ]
+}

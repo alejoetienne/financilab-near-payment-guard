@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+*.key
+*.pem
+*.secrets
+*.secrets.*
+payload*.json
+.DS_Store
+*.log
